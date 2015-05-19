@@ -1,0 +1,12 @@
+{
+    "repos": "https://github.com/303182519/yy-temp",
+    "version": "v1.0.0",
+    "name": "base",
+    "main": "base.js",
+    "dependencies": [
+        "huya-fed/class",
+        "huya-fed/events",
+        "huya-fed/aspect",
+        "huya-fed/attribute"
+    ]
+}
